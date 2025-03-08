@@ -55,7 +55,7 @@ export default function Contact(){
         <ContactLink href="https://www.linkedin.com/in/isaals/" target="_blank">LinkedIn</ContactLink>
       </ContactSection>
 
-      <Image src="../../public/contact.gif"/>
+      <Image src="/contact.gif" alt="Contact me gif"/>
     </MainWrapper>
   );
 };
