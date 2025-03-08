@@ -53,6 +53,13 @@ export default function Contact(){
       <ContactSection>
         <ContactTitle>Links</ContactTitle>
         <ContactLink href="https://www.linkedin.com/in/isaals/" target="_blank">LinkedIn</ContactLink>
+        <ContactLink href="https://github.com/isaadev" target="_blank">GitHub</ContactLink>
+      </ContactSection>
+
+      <ContactSection>
+        <ContactTitle>Contact Information</ContactTitle>
+        <p>Email: isaa@bu.edu</p>
+        <p>Phone: (901) 930-6696</p>
       </ContactSection>
 
       <Image src="/contact.gif" alt="Contact me gif"/>
