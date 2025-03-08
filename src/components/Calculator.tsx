@@ -132,7 +132,7 @@ const Calculator = () => {
         <Button onClick={() => calculate("**")}>**</Button>
         <Button onClick={clearFields}>Clear</Button>
       </ButtonContainer>
-       <Result neg={isNeg}>
+       <Result neg={isNeg()}>
         {result !== "" ? `${result}` : ""}
       </Result>
     </CalculatorWrapper>
