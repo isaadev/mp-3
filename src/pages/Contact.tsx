@@ -27,6 +27,7 @@ const ContactTitle = styled.h4`
 const ContactLink = styled.a`
   color: blue;
   text-decoration: none;
+  display: block;
 
   &:hover {
     text-decoration: underline;
