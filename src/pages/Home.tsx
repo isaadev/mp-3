@@ -36,7 +36,7 @@ export default function Home() {
   return (
     <MainWrapper>
       <h3>Home</h3>
-      <Image src="../../public/griffith.jpg"/>
+      <Image src="/public/griffith.jpg"/>
       <StyledP>My name is Isa Alsafwah and I'm a senior at Boston University studying Computer Science. </StyledP>
       <StyledP>In this website, you will find details related to my education, experience, projects, skills and contact. Enjoy!</StyledP>
     </MainWrapper>

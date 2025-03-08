@@ -49,7 +49,7 @@ export default function Education() {
     <MainWrapper>
       <h3>Education</h3>
       <Section>
-        <Image src="./education.gif"/>
+        <Image src="/public/education.gif"/>
       </Section>
       <Section>
         <SchoolTitle>Boston University</SchoolTitle>

@@ -66,7 +66,7 @@ export default function Experience() {
 
       </Section>
 
-      <Image src="./public/experience.gif"/>
+      <Image src="/experience.gif"/>
     </MainWrapper>
   );
 };
